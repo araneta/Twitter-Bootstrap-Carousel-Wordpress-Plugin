@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Carousel Plugin
- * Plugin URI: http://www.coralynweb.com
+ * Plugin URI: http://www.aldoapp.com
  * Description: Create simple carousel
  * Version: 1
  * Author: Aldo Praherda
- * Author URI: http://www.coralynweb.com
+ * Author URI: http://www.aldoapp.com
  * License: GPLv2 or later
  *
  * This program is distributed in the hope that it will be useful,
